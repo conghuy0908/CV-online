@@ -1,0 +1,66 @@
+/*Tiêu Đề CV  Online*/
+
+*{
+    padding: auto;
+    margin: auto ;
+    box-sizing: border-box;
+    /*list-style-type: none;*/
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Left{
+    width: 345px;
+    height: 100%;
+    background: #fb6a75;
+    position: fixed;
+    left: 0;
+    top: 0;
+
+}
+.Left img{
+    border-radius: 100%;
+    height: auto;
+    width: 50%;
+    margin: 50px 70px ;
+    outline: 1px solid #2d3b41;
+    
+}
+.thongtincanhan{
+
+}
+/*Thông Tin CV Online*/
+.Right{
+    width: 100%;
+    height: 100%;
+    background-color: #00c7b7;
+    position: fixed;
+    margin-left: 346px;
+   
+}
+.hocvan{
+    font-size: 20px;
+    text-overflow: ellipsis;
+}
+.muctieu{
+    font-size: 20px;
+    text-overflow: ellipsis;
+}
+.kynang{
+    font-size: 20px;
+    text-overflow: ellipsis;
+}
+.HMK{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 30%;
+    text-decoration: underline;
+    padding-top: 10px;
+}
+.TT{
+    margin-left: 10px;
+    padding: 20px;
+    text-align: left;
+}
+
+
+/*Footer CV Online*/
