@@ -23,10 +23,6 @@
     width: 50%;
     margin: 50px 70px ;
     outline: 1px solid #2d3b41;
-    
-}
-.thongtincanhan{
-
 }
 /*Thông Tin CV Online*/
 .Right{
@@ -61,6 +57,7 @@
     padding: 20px;
     text-align: left;
 }
-
-
-/*Footer CV Online*/
+.icon{
+ 
+    
+}
